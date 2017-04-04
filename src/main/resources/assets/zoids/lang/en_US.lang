@@ -1,0 +1,15 @@
+itemGroup.ZoidBlocks=Zoidian Blocks
+itemGroup.ZoidItems=Zoidian Items
+itemGroup.ZoidTools=Zoidian Tools
+
+tile.ZiSand.name=Zi Sand
+tile.Magnite.name=Zoid Magnite Ore
+
+item.ZoidMagnite.name=Zoid Magnite
+item.MZiIngot.name=Metal Zi Ingot
+
+item.MetalZiPickaxe.name=Metal Zi Pickaxe
+item.MetalZiAxe.name=Metal Zi Axe
+item.MetalZiHoe.name=Metal Zi Hoe
+item.MetalZiShovel.name=Metal Zi Shovel
+item.MetalZiSword.name=Metal Zi Sword

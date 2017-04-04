@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zoids",
+  "name": "Zoids Mod",
+  "description": "The Zoids Mod, is a Mod that aims to add Zoids to the world of Minecraft",
+  "version": "0.01Alpha",
+  "mcversion": "1.10.2",
+  "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1288193-w-i-p-zoids-mod-v0-01-extremely-early-alpha-build",
+  "updateUrl": "",
+  "authorList": ["Tyrannos23, Ashten_Pyrono"],
+  "credits": "PlaceHolder",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
