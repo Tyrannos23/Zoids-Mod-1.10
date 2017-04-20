@@ -3,6 +3,7 @@ package zoids.Main;
 import zoids.Main.CreativeTabs.TabZoidBlocks;
 import zoids.Main.CreativeTabs.TabZoidItems;
 import zoids.Main.CreativeTabs.TabZoidTools;
+import zoids.Main.Mobs.MobRegistry;
 import zoids.Main.init.ZoidBlocks;
 import zoids.Main.init.ZoidItems;
 import zoids.Main.init.ZoidTools;
@@ -37,6 +38,7 @@ public class Main {
 		ZoidItems.init();
 		ZoidTools.init();
 		ZoidBlocks.init();
+		MobRegistry.register();
 		ZoidItems.register();
 		ZoidTools.register();
 		ZoidBlocks.register();
