@@ -12,9 +12,10 @@ import net.minecraft.util.ResourceLocation;
 
 public class RenderShieldLiger extends RenderLiving<EntityShieldLiger> {
 	
-	@Override
-	public void renderName(EntityLivingBase entityliving, double d, double d1, double d2) {
-	}
+//	@Override
+//	public void renderName(EntityLivingBase entityliving, double d, double d1, double d2) {
+//	}
+	//this code might not be needed
 	
 	public static final ResourceLocation ShieldLiger = new ResourceLocation(Reference.MODID, ":textures/entity/ShieldLiger/ShieldLiger.png");
 	
